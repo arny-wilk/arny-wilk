@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arny-wilk
-- 👀 I’m interested in Database, Big Data, IA, Web development
-- 🌱 I’m currently learning Data Application for backend Development
+- 👀 I’m interested in Web development
+- 🌱 I’m currently in backend Development
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me https://www.linkedin.com/in/arnold-wilk/
 
