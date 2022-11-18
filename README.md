@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arny-wilk
-- 👀 I’m interested in Web development
-- 🌱 I’m currently in backend Development
+- 👀 I’m interested in Tech and Web Development
+- 🌱 I’m currently working on backend Development
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 How to reach me https://www.linkedin.com/in/arnold-wilk/
 
