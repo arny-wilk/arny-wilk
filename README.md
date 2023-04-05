@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @arny-wilk
-- 👀 I’m interested in Tech and Web Development
-- 🌱 I’m currently working on backend Development
-- 💞️ I’m looking to collaborate on Web Projects
+- 👀 Happy curious tech engeener
+- 🌱 I’m currently working to become Fullstack developer
+- 💞️ I’m looking forward to work in Tech Companies
 - 📫 How to reach me https://www.linkedin.com/in/arnold-wilk/
+- You can discover all my projects below 
 
 <!---
 arny-wilk/arny-wilk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
